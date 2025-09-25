@@ -1,4 +1,4 @@
-package com.example.scramblemedaddy4.data
+package com.example.wordscrambler.data
 
 const val SCORE_INCREASE: Int = 20
 const val MAX_WORD_LIMIT: Int = 10

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.scramblemedaddy4"
+    namespace = "com.example.wordscrambler"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.scramblemedaddy4"
+        applicationId = "com.example.wordscrambler"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -58,4 +58,5 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    testImplementation(kotlin("test"))
 }

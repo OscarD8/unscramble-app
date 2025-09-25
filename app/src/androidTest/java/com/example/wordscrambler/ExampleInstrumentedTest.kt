@@ -1,4 +1,4 @@
-package com.example.scramblemedaddy4
+package com.example.wordscrambler
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

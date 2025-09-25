@@ -1,4 +1,4 @@
-package com.example.scramblemedaddy4.ui.theme
+package com.example.wordscrambler.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
